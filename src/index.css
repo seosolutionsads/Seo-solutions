@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --accent: #FF6A00;
+}
+
+:focus {
+  outline: 3px solid rgba(255, 106, 0, 0.25);
+  outline-offset: 2px;
+}
